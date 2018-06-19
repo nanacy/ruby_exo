@@ -1,3 +1,6 @@
+#{} permet de rajouter des chiffres à l'intérieur d'une chaine de caractère
+
+
 puts "On va compter le nombre d'heures de travail à THP"
 # ecris la phrase
 #
